@@ -32,8 +32,8 @@ public class _20 {
 
     public static void main(String[] args) {
         _20 obj = new _20();
-//        int[] arr = {1,2,2,2,3,3,3};
-        int[] arr = {4,4,5,5,6};
+        int[] arr = {1,2,2,2,3,3,3};
+//        int[] arr = {4,4,5,5,6};
         System.out.println(obj.highest(arr));
     }
 }
